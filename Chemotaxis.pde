@@ -88,4 +88,4 @@ class Alien {
       myRgb = color(0, 0, 255);
     }
   }
-}//end of ball
+}//end of Alien
